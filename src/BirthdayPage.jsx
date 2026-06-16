@@ -394,7 +394,7 @@ export default function BirthdayPage() {
         {/* hint text */}
         {!allBlown && (
           <p style={{ fontFamily: "'Playfair Display', serif", fontStyle: "italic", color: "#b07a8a", fontSize: "0.9rem", marginBottom: "1.5rem" }}>
-            กดที่เทียนแต่ละต้นเพื่อเป่าทีละดอก 🕯️
+            กดที่เทียนเพื่อเป่าทีละดอก 🕯️
           </p>
         )}
 
